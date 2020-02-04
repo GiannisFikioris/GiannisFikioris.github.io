@@ -1,10 +1,11 @@
-## About me
+#### About me
 
 I am a graduate of the department of Electrical and Computer Engineering, National Technical University of Athens. I completed my thesis with [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), with name [Perturbation Stability for Mechanism Design](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17435/1/Giannis%20Fikioris%20Thesis.pdf).
 
 From July of 2019 to August 2020 I will be working in [NCSR "Demokritos"](http://www.demokritos.gr/), and in particular in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/), advised by [Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/).
 
 - You can find my CV [here](https://github.com/GiannisFikioris/GiannisFikioris.github.io/raw/master/CV.pdf).
+
 
 
 <!-- You can use the [editor on GitHub](https://github.com/GiannisFikioris/GiannisFikioris.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

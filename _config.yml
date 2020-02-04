@@ -1,8 +1,4 @@
 theme: jekyll-theme-slate
-
-permalink: /:categories/:year/:month/:title/
+# permalink: /:categories/:year/:month/:title/
 title: Giannis Fikioris
 description: Personal Website of Giannis Fikioris
-
-github:
-  is_project_page: false
