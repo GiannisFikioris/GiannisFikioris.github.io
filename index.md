@@ -4,7 +4,7 @@ At the moment and up until August 2020, I will be working in [NCSR "Demokritos"]
 
 My interests lay in Algorithmic Game Theory, and more specifically in Mechanism Design, as well as Learning Theory.
 
-→ You can find more detailed information about me in my [CV](https://github.com/GiannisFikioris/GiannisFikioris.github.io/raw/master/CV.pdf).
+→ You can find more detailed information about me in my [CV]({{ site.baseurl }}/pdfs/CV.pdf).
 
 ---
 
