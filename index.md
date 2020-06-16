@@ -1,10 +1,20 @@
 I am a graduate of the department of Electrical and Computer Engineering, National Technical University of Athens. I completed my thesis with [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), titled [Perturbation Stability for Mechanism Design](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17435/1/Giannis%20Fikioris%20Thesis.pdf).
 
-At the moment and up until August 2020, I will be working in [NCSR "Demokritos"](http://www.demokritos.gr/), and in particular in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/), advised by [Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/).
+In September 2020 I will be starting my PhD at Cornell University. At the moment and up until August 2020, I will be working in [NCSR "Demokritos"](http://www.demokritos.gr/), and in particular in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/), advised by [Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/). 
 
-My interests lay in Algorithmic Game Theory, and more specifically in Mechanism Design, as well as Learning Theory.
+My interests lay in Algorithmic Game Theory, and more specifically in Mechanism Design. I am also interested in Learning Theory.
 
 → You can find more detailed information about me in my [CV]({{ site.baseurl }}/pdfs/CV.pdf).
+
+---
+
+### Publications
+
+1. [*Optimizing Vessel Trajectory Compression*](https://arxiv.org/abs/2005.05418),  
+   [Giannis Fikioris]({{site.baseurl}}),
+   [Kostas Patroumpas](http://www.dblab.ece.ntua.gr/~kpatro/),
+   [Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/),  
+   [**Maritime Big Data Workshop (MBDW) 2020**](https://sites.google.com/view/mbdw2020),
 
 ---
 
