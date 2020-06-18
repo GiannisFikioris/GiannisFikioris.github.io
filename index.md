@@ -10,11 +10,15 @@ My interests lay in Algorithmic Game Theory, and more specifically in Mechanism 
 
 ### Publications
 
-1. [*Optimizing Vessel Trajectory Compression*](https://arxiv.org/abs/2005.05418),  
+1. [*Mechanism Design for Perturbation Stable Combinatorial Auctions*](https://arxiv.org/abs/2006.09889)  
+   [Giannis Fikioris]({{site.baseurl}}),
+   [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)  
+
+2. [*Optimizing Vessel Trajectory Compression*](https://arxiv.org/abs/2005.05418)  
    [Giannis Fikioris]({{site.baseurl}}),
    [Kostas Patroumpas](http://www.dblab.ece.ntua.gr/~kpatro/),
-   [Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/),  
-   [**Maritime Big Data Workshop (MBDW) 2020**](https://sites.google.com/view/mbdw2020),
+   [Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/)  
+   [**Maritime Big Data Workshop (MBDW) 2020**](https://sites.google.com/view/mbdw2020)
 
 ---
 
