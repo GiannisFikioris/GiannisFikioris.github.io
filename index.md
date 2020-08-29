@@ -33,7 +33,7 @@ My interests lay in Algorithmic Game Theory, and more specifically in Mechanism 
 
 ### Work Experience
 
-- **July 19' to August 20'** - Working as a Research Associate in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/) of [NCSR "Demokritos"](http://www.demokritos.gr/). More specifically, I am working on an algorithm that compresses the route of a ship, to make a simpler trajectory with less points. This allows a complex event recognition engine ([RTEC](http://cer.iit.demokritos.gr/RTEC/)) to identify various events more quickly and accurate.
+- **July '19 to August '20** - Working as a Research Associate in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/) of [NCSR "Demokritos"](http://www.demokritos.gr/). More specifically, I am working on an algorithm that compresses the route of a ship, to make a simpler trajectory with less points. This allows a complex event recognition engine ([RTEC](http://cer.iit.demokritos.gr/RTEC/)) to identify various events more quickly and accurate.
 
 ---
 
@@ -49,7 +49,7 @@ My interests lay in Algorithmic Game Theory, and more specifically in Mechanism 
 - **Google Hash Code 2018**, 119th place
 - **IEEEXtreme 11.0**, 100th place
 - **IEEEXtreme 12.0**, 84th place
-- **CodeChef** Ratings, 999th place (as of February 20')
+- **CodeChef** Ratings, 999th place (as of February '20)
 
 ---
 
