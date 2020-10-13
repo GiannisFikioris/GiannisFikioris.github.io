@@ -1,6 +1,6 @@
-I am a graduate of the department of Electrical and Computer Engineering, National Technical University of Athens. I completed my thesis with [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), titled [Perturbation Stability for Mechanism Design](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17435/1/Giannis%20Fikioris%20Thesis.pdf).
+I am a first year PhD student in the [theory group](https://www.cs.cornell.edu/research/theory) at Cornell University. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens. I completed my undergraduate thesis with [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), titled [Perturbation Stability for Mechanism Design](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17435/1/Giannis%20Fikioris%20Thesis.pdf).
 
-In September 2020 I will be starting my PhD at Cornell University. At the moment and up until August 2020, I will be working in [NCSR "Demokritos"](http://www.demokritos.gr/), and in particular in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/), advised by [Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/). 
+From July 2019 to August 2020, I was working in [NCSR "Demokritos"](http://www.demokritos.gr/), and in particular in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/), advised by [Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/). 
 
 My interests lay in Algorithmic Game Theory, and more specifically in Mechanism Design. I am also interested in Learning Theory.
 
@@ -33,7 +33,7 @@ My interests lay in Algorithmic Game Theory, and more specifically in Mechanism 
 
 ### Work Experience
 
-- **July '19 to August '20** - Working as a Research Associate in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/) of [NCSR "Demokritos"](http://www.demokritos.gr/). More specifically, I am working on an algorithm that compresses the route of a ship, to make a simpler trajectory with less points. This allows a complex event recognition engine ([RTEC](http://cer.iit.demokritos.gr/RTEC/)) to identify various events more quickly and accurate.
+- **July '19 to August '20** - Worked as a Research Associate in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/) of [NCSR "Demokritos"](http://www.demokritos.gr/). More specifically, worked on an algorithm that compresses the route of a ship, to make a simpler trajectory with less points. This allows a complex event recognition engine ([RTEC](http://cer.iit.demokritos.gr/RTEC/)) to identify various events more quickly and accurate.
 
 ---
 
