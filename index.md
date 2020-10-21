@@ -10,23 +10,23 @@ My interests lay in Algorithmic Game Theory, and more specifically in Mechanism 
 
 ### Publications
 
-1. [*Mechanism Design for Perturbation Stable Combinatorial Auctions*](https://arxiv.org/abs/2006.09889)  
-   [Giannis Fikioris]({{site.baseurl}}),
-   [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)  
+1. [Mechanism Design for Perturbation Stable Combinatorial Auctions](https://link.springer.com/chapter/10.1007%2F978-3-030-57980-7_4) [[pdf]](https://arxiv.org/abs/2006.09889)  
+   [*Giannis Fikioris*]({{site.baseurl}}),
+   [*Dimitris Fotakis*](https://www.softlab.ntua.gr/~fotakis/)  
    [**Symposium on Algorithmic Game Theory (SAGT) 2020**](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/opt/team/harks/sagt2020/)
 
-2. *Fine-Tuned Compressed Representations of Vessel Trajectories*  
-   [Giannis Fikioris]({{site.baseurl}}),
-   [Kostas Patroumpas](http://www.dblab.ece.ntua.gr/~kpatro/),
-   [Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/),
-   [George Paliouras](https://users.iit.demokritos.gr/~paliourg/),
-   Manos Pitsikalis  
+2. [Fine-Tuned Compressed Representations of Vessel Trajectories](https://dl.acm.org/doi/10.1145/3340531.3412706) [[pdf]](http://cer.iit.demokritos.gr/publications/papers/2020/Fikioris-CIKM2020.pdf)  
+   [*Giannis Fikioris*]({{site.baseurl}}),
+   [*Kostas Patroumpas*](http://www.dblab.ece.ntua.gr/~kpatro/),
+   [*Alexander Artikis*](https://users.iit.demokritos.gr/~a.artikis/),
+   [*George Paliouras*](https://users.iit.demokritos.gr/~paliourg/),
+   *Manos Pitsikalis*  
    [**ACM International Conference on Information And Knowledge Management (CIKM) 2020**](https://www.cikm2020.org/)
 
-3. [*Optimizing Vessel Trajectory Compression*](https://arxiv.org/abs/2005.05418)  
-   [Giannis Fikioris]({{site.baseurl}}),
-   [Kostas Patroumpas](http://www.dblab.ece.ntua.gr/~kpatro/),
-   [Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/)  
+3. [Optimizing Vessel Trajectory Compression](https://ieeexplore.ieee.org/document/9162228) [[pdf]](https://arxiv.org/abs/2005.05418)  
+   [*Giannis Fikioris*]({{site.baseurl}}),
+   [*Kostas Patroumpas*](http://www.dblab.ece.ntua.gr/~kpatro/),
+   [*Alexander Artikis*](https://users.iit.demokritos.gr/~a.artikis/)  
    [**Maritime Big Data Workshop (MBDW) 2020**](https://sites.google.com/view/mbdw2020)
 
 ---
