@@ -1,0 +1,199 @@
+baseURL = "http://giannisfikioris.github.io/"
+languageCode = "en-us"
+title = "Giannis Fikioris "
+theme = "avicenna"
+googleAnalytics = "r7osIjNUpA4Ed4qVkGP7thUC5323JAPeTcBTq1qVdmY"
+timeout=3000
+
+[params]
+    subtitle= "PhD Student"
+    interests="Theoretical Computer Science -- Algorithmic Game Theory, Learning Theory."
+    cv_name= "CV.pdf"
+    #   blog="http://myblog.edu"
+
+[[params.affilation]]
+    name = "Cornell University"
+    position = "PhD Student"
+    contact = "gfikioris [at] cs [dot] cornell [dot] edu"
+
+# [[params.affilation]]
+#   name = "MyCoolStartup"
+#   position = "Co-Founder"
+#   contact = "hadi@mycoolstartup.ai"
+
+# [[params.social]]
+#   name = "GitHub"
+#   icon = "github"
+#   url = "https://github.com/hadisinaee"
+
+# [[params.social]]
+#   name = "Twitter"
+#   icon = "twitter"
+#   url = "https://twitter.com/hadisinaee"
+
+
+# [[params.social]]
+#   name = "LinkedIn"
+#   icon = "linkedin"
+#   url = "https://linkedin.com/in/hadisinaee/"
+
+
+[[params.introduction.paragraph]]
+    text="""
+I am a first year PhD student in the [theory group](https://www.cs.cornell.edu/research/theory) at Cornell University. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens. I completed my undergraduate thesis with [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), titled [Perturbation Stability for Mechanism Design](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17435/1/Giannis%20Fikioris%20Thesis.pdf).
+
+From July 2019 to August 2020, I was working in [NCSR "Demokritos"](http://www.demokritos.gr/), and in particular in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/), advised by [Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/)."""
+
+# [[params.projects]]
+# 	[[params.projects.project]]
+# 		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
+# 		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
+# 		project_page = "https://myprojecthomepage.com"
+# 		code_link = "https://coderepo.com"
+# 		blog_link = "https://ablogpost.com"
+
+#  [[params.projects.project]]
+# 		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
+# 		description  = ""
+# 		project_page = "https://myprojecthomepage.com"
+# 		code_link = "https://coderepo.com"
+# 		blog_link = ""
+
+#  [[params.projects.project]]
+# 		name = "Integer eget aliquet nibh praesent tristique magna"
+# 		description  = ""
+# 		project_page = "https://myprojecthomepage.com"
+# 		code_link = ""
+# 		blog_link = "https://ablogpost.com"
+
+[[params.publications]]
+  year="2020"
+
+    [[params.publications.paper]]
+        name = "Mechanism Design for Perturbation Stable Combinatorial Auctions"
+        authors = """[Giannis Fikioris](http://giannisfikioris.github.io/),
+			[Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)
+		"""
+        dest  = "Symposium on Algorithmic Game Theory (SAGT), 2020"
+        paper_link = "https://link.springer.com/chapter/10.1007%2F978-3-030-57980-7_4"
+        pdf_link = "https://arxiv.org/abs/2006.09889"
+    
+    [[params.publications.paper]]
+        name = "Fine-Tuned Compressed Representations of Vessel Trajectories"
+        authors = """[Giannis Fikioris](http://giannisfikioris.github.io/),
+			[Kostas Patroumpas](http://www.dblab.ece.ntua.gr/~kpatro/),
+			[Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/),
+			[George Paliouras](https://users.iit.demokritos.gr/~paliourg/),
+			[Manos Pitsikalis](https://scholar.google.gr/citations?user=r0Hs2H4AAAAJ&hl)
+		"""
+        dest = "ACM International Conference on Information And Knowledge Management (CIKM) 2020"
+        paper_link = "https://dl.acm.org/doi/10.1145/3340531.3412706"
+        pdf_link = "http://cer.iit.demokritos.gr/publications/papers/2020/Fikioris-CIKM2020.pdf"
+
+    [[params.publications.paper]]
+        name = "Optimizing Vessel Trajectory Compression"
+        authors = """[Giannis Fikioris](http://giannisfikioris.github.io/),
+			[Kostas Patroumpas](http://www.dblab.ece.ntua.gr/~kpatro/),
+			[Alexander Artikis](https://users.iit.demokritos.gr/~a.artikis/)
+		"""
+        dest = "ACM International Conference on Information And Knowledge Management (CIKM) 2020"
+        paper_link = "https://ieeexplore.ieee.org/document/9162228"
+        pdf_link = "https://arxiv.org/abs/2005.05418"
+
+
+[[params.works]]
+
+	[[params.works.exp]]
+        details = "**July '19 to August '20** - Worked as a Research Associate in the [Complex Event Recognition Group](http://cer.iit.demokritos.gr/) of [NCSR \"Demokritos\"](http://www.demokritos.gr/). More specifically, worked on an algorithm that compresses the route of a ship, to make a simpler trajectory with less points. This allows a complex event recognition engine ([RTEC](http://cer.iit.demokritos.gr/RTEC/)) to identify various events more quickly and accurate."
+
+
+[[params.awards]]
+
+	[[params.awards.award]]
+        details = "**Papakyriakopoulos Award**, for highest grade in Mathematic-related courses in 1st and 2nd semesters, NTUA"
+
+
+[[params.competitions]]
+
+	[[params.competitions.competition]]
+        name = "ACM/ICPC SEERC 2019"
+		place = "37th place"
+
+	[[params.competitions.competition]]
+        name = "Google Hash Code 2018"
+		place = "119th place"
+
+	[[params.competitions.competition]]
+        name = "IEEEXtreme 11.0"
+		place = "100th place"
+
+	[[params.competitions.competition]]
+        name = "IEEEXtreme 12.0"
+		place = "84th place"
+
+	[[params.competitions.competition]]
+        name = "CodeChef Ratings"
+		place = "999th place (as of February '20)"
+
+
+
+
+[[params.languages]]
+
+	[[params.languages.lang]]
+		name = "C/C++, Java"
+
+	[[params.languages.lang]]
+		name = "Python, JavaScript, PHP"
+
+	[[params.languages.lang]]
+		name = "Haskell, Scala"
+
+	[[params.languages.lang]]
+		name = "AVR, 8085, 8086"
+
+	[[params.languages.lang]]
+		name = "Prolog, HTML, SQL"
+
+	[[params.languages.lang]]
+		name = "Mathematica, Matlab"
+	
+
+
+
+
+
+# [[params.publications]]
+#   year="2019"
+
+#   [[params.publications.paper]]
+# 		name = "Feugiat sed lectus vestibulum mattis ullamcorper velit sed"
+# 		authors = "Caroll Comes, __Hadi Sinaee__"
+# 		dest  = "Udo Madhu Journal"
+# 		link = "https://mypaperishere.com"
+# 		code_link = "https://thecoderepo.com"
+# 		blog_link = ""
+
+#   [[params.publications.paper]]
+# 		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
+# 		authors = "Les Larkins, Ana Alvardo, __Hadi Sinaee__ "
+# 		dest  = "Zorka Vita Conference"
+# 		link = "https://mypaperishere.com"
+# 		code_link = ""
+# 		blog_link = "https://myblogaboutit.com"
+
+#   [[params.publications.paper]]
+# 		name = "Aliquet eget sit amet tellus cras adipiscing enim eu turpis"
+# 		authors = "Les Larkins, __Hadi Sinaee__, Ana Alvardo"
+# 		dest  = "Lena Randa Conference"
+# 		link = "https://mypaperishere.com"
+# 		code_link = ""
+# 		blog_link = ""
+
+#   [[params.publications.paper]]
+# 		name = "Orci eu lobortis elementum nibh tellus molestie nunc non blandit"
+# 		authors = "__Hadi Sinaee__, Caroll Comes"
+# 		dest  = "Thandeka Radhika Conference"
+# 		link = ""
+# 		code_link = ""
+# 		blog_link = ""
