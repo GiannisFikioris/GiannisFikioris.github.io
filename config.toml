@@ -2,7 +2,7 @@ baseURL = "http://giannisfikioris.github.io/"
 languageCode = "en-us"
 title = "Giannis Fikioris "
 theme = "avicenna"
-googleAnalytics = "r7osIjNUpA4Ed4qVkGP7thUC5323JAPeTcBTq1qVdmY"
+googleAnalytics = "G-GWXFE9V3QF"
 timeout=3000
 
 [params]
