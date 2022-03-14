@@ -5,14 +5,14 @@
 body {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
-  color: #333;
+  /* color: #333; */
   line-height: 1.5;
   font-size: 16px;
 }
 
 a,
 a:hover {
-  color: #a00;
+  color: hsl(3, 67%, 46%);
   text-decoration: none;
 }
 
@@ -67,7 +67,7 @@ blockquote {
   font-size: 1.4rem;
   font-family: Georgia, bitstream charter, serif;
   border-left: 3px solid;
-  border-color: #a00;
+  border-color: hsl(3, 67%, 46%);
   padding-left: 20px;
 }
 
@@ -81,7 +81,7 @@ span {
 
 a,
 a:hover {
-  color: #a00;
+  color: hsl(3, 67%, 46%);
   text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ h5,
 h6 {
   font-family: Ubuntu, raleway, sans-serif;
   line-height: 1.2;
-  color: #330;
+  /* color: #330; */
   font-weight: 100;
   margin-bottom: 15px;
   margin-top: 20px;
@@ -201,7 +201,7 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 30%;
+  max-width: 35%;
   height: auto;
   border-radius: 50%;
   /* float: left; */
@@ -248,7 +248,6 @@ ul {
 }
 
 .header .site-affilation .email {
-  /* color: #a00; */
   font-size: 16px;
   display: block;
   font-family: "Ubuntu Mono";
@@ -303,7 +302,7 @@ ul {
 }
 
 .email {
-  /* color: #a00; */
+  /* color: hsl(3, 67%, 46%); */
   font-size: 16px;
   font-family: "Ubuntu Mono";
   font-weight: bolder;
@@ -435,5 +434,19 @@ ul {
 @media (max-width: 480px) {
   body {
     font-size: 14px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fff !important;
+    background: #252526 !important;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    color: #333 !important;
+    background: white !important;
   }
 }
