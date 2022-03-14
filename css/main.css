@@ -1,9 +1,7 @@
-/* Ubuntu, Ubuntu */
-@import url(https://fonts.googleapis.com/css?family=Ubuntu);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   /* color: #333; */
   line-height: 1.5;
@@ -95,7 +93,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Ubuntu, raleway, sans-serif;
+  font-family: Roboto, sans-serif;
   line-height: 1.2;
   /* color: #330; */
   font-weight: 100;
@@ -104,33 +102,33 @@ h6 {
 }
 
 h1 {
-  font-size: 2.75rem;
+  font-size: 2.9rem;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 
 h3 {
-  font-size: 1.6rem;
+  font-size: 1.9rem;
 }
 
 h4 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 h5 {
   font-weight: 300;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 h6 {
   font-weight: 300;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
 }
 
 ul {
@@ -184,7 +182,7 @@ ul {
 }
 
 .wrapper {
-  max-width: 760px;
+  max-width: 850px;
   margin: 0 auto;
 }
 
@@ -211,7 +209,7 @@ ul {
 .header h2 {
   margin: 0;
   padding: 0;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   line-height: 1.3em;
 }
 
@@ -250,15 +248,15 @@ ul {
 .header .site-affilation .email {
   font-size: 16px;
   display: block;
-  font-family: "Ubuntu Mono";
+  font-family: "Roboto Mono";
   font-weight: bolder;
 }
 
 .header .site-affilation .position {
   /* color: #a00; */
-  font-size: 18px;
+  font-size: 20px;
   /* display: block; */
-  font-family: Ubuntu;
+  font-family: Roboto;
   /* font-weight: bolder; */
 }
 
@@ -284,7 +282,7 @@ ul {
 }
 
 .page_title {
-  font-family: Ubuntu;
+  font-family: Roboto;
   font-weight: bolder;
   font-size: 1.5em;
   margin-top: 10%;
@@ -293,7 +291,7 @@ ul {
 
 .page_meta {
   display: block;
-  font-family: "Ubuntu Mono";
+  font-family: "Roboto Mono";
   font-size: 14px;
 }
 
@@ -304,7 +302,7 @@ ul {
 .email {
   /* color: hsl(3, 67%, 46%); */
   font-size: 16px;
-  font-family: "Ubuntu Mono";
+  font-family: "Roboto Mono";
   font-weight: bolder;
 }
 
@@ -328,13 +326,13 @@ ul {
 }
 
 .code_blog {
-    font-family: "Ubuntu Mono";
+    font-family: "Roboto Mono";
     font-size: 14px;
     margin: 0em .9em 0em;
 }
 
 .blog_cv {
-    font-family: "Ubuntu Mono";
+    font-family: "Roboto Mono";
     font-size: 17px;
     /* margin: 0em .9em 0em; */
 }
@@ -440,13 +438,13 @@ ul {
 @media (prefers-color-scheme: dark) {
   body {
     color: #fff !important;
-    background: #252526 !important;
+    background: hsl(0, 0%, 10%) !important;
   }
 }
 
 @media (prefers-color-scheme: light) {
   body {
     color: #333 !important;
-    background: white !important;
+    background: hsl(0, 0%, 100%) !important;
   }
 }
