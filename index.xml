@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giannis Fikioris </title>
+    <title>Giannis Fikioris</title>
     <link>https://giannisfikioris.org/</link>
-    <description>Recent content on Giannis Fikioris </description>
+    <description>Recent content on Giannis Fikioris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://giannisfikioris.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 17:51:47 +0330</lastBuildDate><atom:link href="https://giannisfikioris.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
