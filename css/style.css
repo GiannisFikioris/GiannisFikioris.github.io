@@ -1,11 +1,13 @@
 :root {
 
-    --eerie-black: #141414ff;
-    --jet: #373737ff;
-    --white: #ffffffff;
-    --rajah: #faa549ff;
-    --tart-orange: #f2564fff;
-    --light-steel-blue: #b7d0f1ff;
+    --eerie-black: #141414;
+    --jet: #373737;
+    --white: #ffffff;
+    --rajah: #faa549;
+    --tart-orange: #f2564f;
+
+    --persian-red: hsl(0, 60%, 50%);
+    --satin-sheen-gold: hsl(42, 60%, 50%);
 
 
     --bg-dark-color: var(--eerie-black);
@@ -14,10 +16,10 @@
     --bg-light-color: var(--white);
     --text-light-color: var(--jet);
 
-    --main-color: var(--tart-orange);
+    --main-color: var(--persian-red);
 
-    --link-color: var(--tart-orange);
-    --link-color-hover: var(--tart-orange);
+    --link-color: var(--persian-red);
+    --link-color-hover: var(--persian-red);
 }
 
 body {
@@ -167,7 +169,7 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     /* border-radius: 100%; */
-    background-color: var(--tart-orange);
+    background-color: var(--persian-red);
     color: white;
     text-decoration: none;
 }
@@ -314,6 +316,10 @@ h2 code {
 
 .lists ul{
     margin-top: 1.2%;
+}
+
+.text-muted {
+    color: var(--satin-sheen-gold) !important;
 }
 
 @media (prefers-color-scheme: dark) {
