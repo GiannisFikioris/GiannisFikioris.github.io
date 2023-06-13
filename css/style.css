@@ -1,25 +1,49 @@
 :root {
 
     --eerie-black: #141414;
-    --jet: #373737;
+    --almost-black: #101010;
+    --black: #000000;
     --white: #ffffff;
     --rajah: #faa549;
     --tart-orange: #f2564f;
 
+    --aqua: hsl(191, 58%, 40%);
+
+    --teal: hsl(180, 55%, 27%);
+
+    
     --persian-red: hsl(0, 60%, 50%);
+
     --satin-sheen-gold: hsl(42, 60%, 50%);
 
 
-    --bg-dark-color: var(--eerie-black);
-    --text-dark-color: var(--white);
+    /* Light theme colors */
+    --main-color: var(--aqua) !important;
+    --link-color: var(--aqua) !important;
+    --link-color-hover: var(--aqua) !important;
+    
+    --text-muted-color: var(--teal) !important;
+}
 
-    --bg-light-color: var(--white);
-    --text-light-color: var(--jet);
+@media (prefers-color-scheme: light) {
+    /* Light theme colors number 2 */
+    body {
+        color: var(--black) !important;
+        background: var(--white) !important;
+    }
+}
 
-    --main-color: var(--persian-red);
+@media (prefers-color-scheme: dark) {
+    body {
+        color: var(--white) !important;
+        background: var(--almost-black) !important;
 
-    --link-color: var(--persian-red);
-    --link-color-hover: var(--persian-red);
+        --main-color: var(--aqua) !important;
+        --link-color: var(--aqua) !important;
+        --link-color-hover: var(--aqua) !important;
+
+        --text-muted-color: var(--teal) !important;
+    }
 }
 
 body {
@@ -169,7 +193,7 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     /* border-radius: 100%; */
-    background-color: var(--persian-red);
+    background-color: var(--link-color-hover);
     color: white;
     text-decoration: none;
 }
@@ -319,19 +343,5 @@ h2 code {
 }
 
 .text-muted {
-    color: var(--satin-sheen-gold) !important;
-}
-
-@media (prefers-color-scheme: dark) {
-    body {
-        color: var(--text-dark-color) !important;
-        background: var(--bg-dark-color) !important;
-    }
-}
-
-@media (prefers-color-scheme: light) {
-    body {
-        color: var(--text-light-color) !important;
-        background: var(--bg-light-color) !important;
-    }
+    color: var(--text-muted-color) !important;
 }
