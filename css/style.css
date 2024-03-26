@@ -18,11 +18,11 @@
 
 
     /* Light theme colors */
-    --main-color: var(--aqua) !important;
-    --link-color: var(--aqua) !important;
-    --link-color-hover: var(--aqua) !important;
+    --main-color: var(--persian-red) !important;
+    --link-color: var(--persian-red) !important;
+    --link-color-hover: var(--persian-red) !important;
     
-    --text-muted-color: var(--teal) !important;
+    --text-muted-color: var(--satin-sheen-gold) !important;
 }
 
 @media (prefers-color-scheme: light) {
@@ -38,11 +38,11 @@
         color: var(--white) !important;
         background: var(--almost-black) !important;
 
-        --main-color: var(--aqua) !important;
-        --link-color: var(--aqua) !important;
-        --link-color-hover: var(--aqua) !important;
+        /* --main-color: var(--persian-red) !important; */
+        /* --link-color: var(--persian-red) !important; */
+        /* --link-color-hover: var(--persian-red) !important; */
 
-        --text-muted-color: var(--teal) !important;
+        /* --text-muted-color: var(--teal) !important; */
     }
 }
 
