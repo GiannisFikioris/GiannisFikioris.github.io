@@ -16,13 +16,15 @@
 
     --satin-sheen-gold: hsl(42, 60%, 50%);
 
+    --rose-quartz: #A09CB0;
+
 
     /* Light theme colors */
     --main-color: var(--persian-red) !important;
     --link-color: var(--persian-red) !important;
     --link-color-hover: var(--persian-red) !important;
     
-    --text-muted-color: var(--satin-sheen-gold) !important;
+    --text-muted-color: var(--rose-quartz) !important;
 }
 
 @media (prefers-color-scheme: light) {
