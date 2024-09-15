@@ -10,18 +10,24 @@
 
     --fire-brick: #bd2828;
     --c2: #FF7F11;
+
+    --myPink: #C70039;
+    --myBlue: #008E9E;
+    --myOrange: #FF5733;
+
+    --almostWhite: #fff5f0;
 }
 
 @media (prefers-color-scheme: light) {
     /* Light theme colors number 2 */
     body {
         color: var(--black) !important;
-        background: var(--white) !important;
+        background: var(--almostWhite) !important;
 
-        --main-color: var(--fire-brick) !important;
-        --link-color: var(--fire-brick) !important;
-        --link-color-hover: var(--fire-brick) !important;
-        --text-muted-color: var(--c2) !important;
+        --main-color: var(--myPink) !important;
+        --link-color: var(--myPink) !important;
+        --link-color-hover: var(--myPink) !important;
+        --text-muted-color: var(--myBlue) !important;
     }
 }
 
