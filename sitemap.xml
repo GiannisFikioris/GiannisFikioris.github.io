@@ -1,12 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://giannisfikioris.org/</loc>
-    <lastmod>2020-11-20T17:51:47+03:30</lastmod>
-  </url><url>
-    <loc>https://giannisfikioris.org/categories/</loc>
-  </url><url>
-    <loc>https://giannisfikioris.org/tags/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://giannisfikioris.org/news/WWW25/</loc>
+<lastmod>2025-01-20T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://giannisfikioris.org/news/Google25/</loc>
+<lastmod>2025-03-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://giannisfikioris.org/news/IJCAI25/</loc>
+<lastmod>2025-04-30T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://giannisfikioris.org/news/EC25_resource/</loc>
+<lastmod>2025-05-12T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://giannisfikioris.org/news/EC25_spacing/</loc>
+<lastmod>2025-05-13T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://giannisfikioris.org/</loc>
+</url>
+<url>
+<loc>https://giannisfikioris.org/cv/</loc>
+</url>
+<url>
+<loc>https://giannisfikioris.org/news/</loc>
+</url>
+<url>
+<loc>https://giannisfikioris.org/publications/</loc>
+</url>
+<url>
+<loc>https://giannisfikioris.org/teaching/</loc>
+</url>
 </urlset>
