@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This is my CV in html form. If you prefer, you can download the pdf version above.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -44,6 +44,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-learning-in-budgeted-auctions-with-spacing-objectives-accepted-to-ec-2025",
           title: 'Learning in Budgeted Auctions with Spacing Objectives accepted to EC 2025!',
+          description: "",
+          section: "News",},{id: "news-robust-equilibria-in-shared-resource-allocation-via-strengthening-border-s-theorem-accepted-to-soda-2026",
+          title: 'Robust Equilibria in Shared Resource Allocation via Strengthening Border’s Theorem accepted to SODA...',
           description: "",
           section: "News",},{
         id: 'social-email',

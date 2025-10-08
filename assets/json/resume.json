@@ -164,6 +164,13 @@
   ],
   "publications": [
     {
+      "name": "Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem",
+      "publisher": "SODA 2026",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.48550/arXiv.2505.11431",
+      "summary": "David X. Lin, Siddhartha Banerjee, Giannis Fikioris, Éva Tardos"
+    },
+    {
       "name": "Learning in Budgeted Auctions with Spacing Objectives",
       "publisher": "EC 2025",
       "releaseDate": "2025",
@@ -197,13 +204,6 @@
       "releaseDate": "2025",
       "url": "https://doi.org/10.48550/arXiv.2505.13824",
       "summary": "Chido Onyeze, Siddhartha Banerjee, Giannis Fikioris, Éva Tardos"
-    },
-    {
-      "name": "Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem",
-      "publisher": "arXiv pre-print",
-      "releaseDate": "2025",
-      "url": "https://doi.org/10.48550/arXiv.2505.11431",
-      "summary": "David X. Lin, Siddhartha Banerjee, Giannis Fikioris, Éva Tardos"
     },
     {
       "name": "Liquid Welfare Guarantees for No-Regret Learning in Sequential Budgeted Auctions",
