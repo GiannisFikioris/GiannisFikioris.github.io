@@ -48,6 +48,9 @@ ninja.data = [{
           section: "News",},{id: "news-robust-equilibria-in-shared-resource-allocation-via-strengthening-border-s-theorem-accepted-to-soda-2026",
           title: 'Robust Equilibria in Shared Resource Allocation via Strengthening Border’s Theorem accepted to SODA...',
           description: "",
+          section: "News",},{id: "news-robust-resource-allocation-via-competitive-subsidies-accepted-to-itcs-2026",
+          title: 'Robust Resource Allocation via Competitive Subsidies accepted to ITCS 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

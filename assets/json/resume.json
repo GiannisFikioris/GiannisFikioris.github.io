@@ -171,6 +171,12 @@
       "summary": "David X. Lin, Siddhartha Banerjee, Giannis Fikioris, Éva Tardos"
     },
     {
+      "name": "Robust Resource Allocation via Competitive Subsidies",
+      "publisher": "ITCS 2026",
+      "releaseDate": "2026",
+      "summary": "David X. Lin, Giannis Fikioris, Siddhartha Banerjee, Éva Tardos"
+    },
+    {
       "name": "Learning in Budgeted Auctions with Spacing Objectives",
       "publisher": "EC 2025",
       "releaseDate": "2025",
@@ -183,6 +189,13 @@
       "releaseDate": "2025",
       "url": "https://doi.org/10.1145/3736252.3742501",
       "summary": "Giannis Fikioris, Siddhartha Banerjee, Éva Tardos"
+    },
+    {
+      "name": "Approximately Stationary Bandits with Knapsacks",
+      "publisher": "COLT 2023 & Mathematics of Operations Research",
+      "releaseDate": "2025",
+      "url": "https://proceedings.mlr.press/v195/fikioris23a.html",
+      "summary": "Giannis Fikioris, Éva Tardos"
     },
     {
       "name": "No-Regret Algorithms in non-Truthful Auctions with Budget and ROI Constraints",
@@ -207,7 +220,7 @@
     },
     {
       "name": "Liquid Welfare Guarantees for No-Regret Learning in Sequential Budgeted Auctions",
-      "publisher": "Mathematics of Operations Research & EC 2023",
+      "publisher": "EC 2023 & Mathematics of Operations Research",
       "releaseDate": "2024",
       "url": "https://doi.org/10.1287/moor.2023.0274",
       "summary": "Giannis Fikioris, Éva Tardos"
@@ -225,13 +238,6 @@
       "releaseDate": "2023",
       "url": "https://doi.org/10.1145/3580507.3597723",
       "summary": "Siddhartha Banerjee, Giannis Fikioris, Éva Tardos"
-    },
-    {
-      "name": "Approximately Stationary Bandits with Knapsacks",
-      "publisher": "COLT 2023",
-      "releaseDate": "2023",
-      "url": "https://proceedings.mlr.press/v195/fikioris23a.html",
-      "summary": "Giannis Fikioris, Éva Tardos"
     },
     {
       "name": "Karma: Resource Allocation for Dynamic Demands",
