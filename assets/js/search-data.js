@@ -28,7 +28,7 @@ ninja.data = [{
           description: "This is my CV in html form. If you prefer, you can download the pdf version above.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/CV.pdf";
           },
         },{id: "news-no-regret-algorithms-in-non-truthful-auctions-with-budget-and-roi-constraints-accepted-to-www-2025",
           title: 'No-Regret Algorithms in non-Truthful Auctions with Budget and ROI Constraints accepted to WWW...',
