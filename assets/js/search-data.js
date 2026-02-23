@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-robust-resource-allocation-via-competitive-subsidies-accepted-to-itcs-2026",
           title: 'Robust Resource Allocation via Competitive Subsidies accepted to ITCS 2026!',
           description: "",
+          section: "News",},{id: "news-robust-temporal-guarantees-in-budgeted-sequential-auctions-is-out-on-arxiv",
+          title: 'Robust Temporal Guarantees in Budgeted Sequential Auctions is out on arXiv!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
